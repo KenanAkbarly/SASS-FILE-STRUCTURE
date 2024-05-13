@@ -1,0 +1,18 @@
+.form {
+  &__group {
+  }
+
+  &__input {
+    &::placeholder {
+    }
+
+    &:focus {
+    }
+
+    &:focus:invalid {
+    }
+  }
+
+  &__label {
+  }
+}
